@@ -1,6 +1,6 @@
 # Eye Movement
 
-A visualization of a pair of eyes watching the mouse cursor.
+A pair of eyes in the browser window will keep close watch of your mouse's every move while running this visualization.
 
 ## Installation
 
